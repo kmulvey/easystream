@@ -11,3 +11,8 @@ A common interface for multiple spreaming processing platforms.
 ## Delivery 
 - [ ] Exactly once
 - [ ] At least once
+
+## Encoding Formats
+- [ ] [Avro](https://avro.apache.org/)
+- [ ] [Protocol Buffers (protobuf)](https://developers.google.com/protocol-buffers/)
+- [ ] JSON
